@@ -1,14 +1,9 @@
-- 👋 Hi, I’m @dylan-roberts-capstone-2021
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Langton's Ant
+[view repository](https://github.com/dylan-roberts-capstone-2021/langtons-ant)
+Langton's Ant is an interesting simulation that results from a simple ruleset. This project required the use of writing computer graphics along with design of the
+algorithm in JavaScript. The idea was invented by Chris Langton in 1986 (source https://en.wikipedia.org/wiki/Langton%27s_ant).
 
-# Langton's Ant
-Langton's Ant is a simulation that takes place on a grid of squares and is a results of a small, simple ruleset that causes the "ant" to move. The ant
-has an orientation, a location on the grid, and each square can be either white or filled (for mine I used blue). Here is a short summary of the rules:
-If the ant is on a white square, then the ant moves 90 degrees clockwise, flips the color of the that square, and moves one square forward.
-If the ant is on a black square, then the ant moves 90 degrees *counter-clockwise*, flips the color of the square, and move forward 1 square.
-This simple ruleset causes the ant to move around in a seemingly random manner, creating a mess of squares in its trail. However this pattern has no
-element of randomness, so the pattern is the same each time that the simulation runs. At around 11,000 movements, there is a very peculier formation that
-occurs. The ant gets almost "stuck" in a loop of movement. This creates a so-called "staircase".
+## Spock
+[view repository]()
+Spock is a web application that allows professors to organize and facilitate a better online-learning experience for students. For the capstone class, it was an
+opportunity for computer science majors to get experience working with each other on a large application.
